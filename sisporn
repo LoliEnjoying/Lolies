@@ -1,0 +1,49 @@
+/**
+ * @name sis porn
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2013/03/31/68862/91d5603d9afc8811322cfaa148866d51-1000.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://www.wallpaperup.com/uploads/wallpapers/2013/03/31/68862/91d5603d9afc8811322cfaa148866d51-1000.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://www.wallpaperup.com/uploads/wallpapers/2013/03/31/68862/91d5603d9afc8811322cfaa148866d51-1000.jpg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0.3;
+  --right-brightness: 0;
+  --overlay-brightness: 0.62;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 255,255,255;
+  --link-colour: #000000;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 176deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
