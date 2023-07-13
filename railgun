@@ -1,0 +1,49 @@
+/**
+ * @name railgun
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://get.wallhere.com/photo/illustration-anime-cartoon-Misaka-Mikoto-To-Aru-Kagaku-no-Railgun-Shirai-Kuroko-mangaka-179953.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: contain;
+  --background-image-position: center;
+  --popout-image: url('https://get.wallhere.com/photo/illustration-anime-cartoon-Misaka-Mikoto-To-Aru-Kagaku-no-Railgun-Shirai-Kuroko-mangaka-179953.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: top left;
+  --overlay-image: url('https://get.wallhere.com/photo/illustration-anime-cartoon-Misaka-Mikoto-To-Aru-Kagaku-no-Railgun-Shirai-Kuroko-mangaka-179953.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: contain;
+  --overlay-image-position: center;
+  --home-button-image: url('https://get.wallhere.com/photo/illustration-anime-cartoon-Misaka-Mikoto-To-Aru-Kagaku-no-Railgun-Shirai-Kuroko-mangaka-179953.jpg');
+  --home-button-size: 200%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.48;
+  --left-brightness: 0.62;
+  --middle-brightness: 0.44;
+  --right-brightness: 0;
+  --overlay-brightness: 0.56;
+  --gradient-primary: 7,7,7;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #000000;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 268deg;
+  --tint-colour: 222,76,153;
+  --tint-brightness: 0.22;
+  --font: gg sans;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
